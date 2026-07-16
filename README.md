@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project analyzes the Netflix Titles dataset using Python to uncover trends in content distribution, genres, ratings, countries, and content types through exploratory data analysis (EDA).
+This project analyzes the Netflix Titles dataset using Python to explore content trends, genre distribution, ratings, and regional patterns through Exploratory Data Analysis (EDA). The analysis provides valuable insights into Netflix's content library and supports data-driven content strategy.
 
 ---
 
@@ -43,34 +43,34 @@ Netflix Titles Dataset
 
 ## 📈 Key Visualizations
 
-### Movies vs TV Shows
+### 🎬 Movies vs TV Shows
 
 ![Movies vs TV Shows](movies_vs_tvshows.png)
 
-### Top Movie Genres
+### 🎭 Top Movie Genres
 
-![Genres](top_genres.png)
+![Top Movie Genres](top_movie_genres.png)
 
-### Top Countries Producing Movies
+### 🌍 Top Countries Producing Movies
 
-![Countries](top_countries.png)
+![Top Countries](top_countries.png)
 
-### Distribution of Ratings
+### ⭐ Distribution of Ratings
 
-![Ratings](ratings_distribution.png)
+![Distribution of Ratings](ratings_distribution.png)
 
 ---
 
 ## 📌 Key Insights
 
-- Movies account for approximately 71% of Netflix content.
-- International Movies and Dramas are the most common genres.
-- The United States produces the largest number of Netflix titles.
-- TV-MA is the most frequent content rating.
-- Exploratory analysis provided insights into content trends and regional distribution.
+- Movies represent approximately **71%** of the Netflix content library.
+- **International Movies** and **Dramas** are the most common genres.
+- The **United States** is the leading producer of Netflix titles, followed by India.
+- **TV-MA** is the most frequently assigned content rating.
+- The analysis highlights global content trends and audience preferences through visual exploration.
 
 ---
 
 ## 🎯 Business Value
 
-This project demonstrates how exploratory data analysis can generate valuable insights to support content strategy and business decision-making.
+This project demonstrates how exploratory data analysis (EDA) can uncover meaningful insights from streaming platform data, supporting content strategy, audience understanding, and data-driven decision-making.
